@@ -1,9 +1,9 @@
 module github.com/zksync-sdk/zksync-go
 
-go 1.16
+go 1.19
 
 require (
-	github.com/ethereum/go-ethereum v1.10.3
+	github.com/ethereum/go-ethereum v1.10.26
 	github.com/miguelmota/go-ethereum-hdwallet v0.0.1
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
