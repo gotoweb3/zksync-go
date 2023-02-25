@@ -1,4 +1,4 @@
-module github.com/zksync-sdk/zksync-go
+module github.com/gotoweb3/zksync-go
 
 go 1.19
 
